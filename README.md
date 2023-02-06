@@ -1,2 +1,1 @@
-# prepcurse-henry
-Este es un repositorio de prueba del prep curse de Henry
+Este proyecto es una prueba de como probar un repositorio y como clonarlo de github
